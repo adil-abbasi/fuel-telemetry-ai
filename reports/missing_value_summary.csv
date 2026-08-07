@@ -1,0 +1,5 @@
+feature,missing_before,missing_after,filled
+fuel_level_l,58528,38772,19756
+current,54605,26010,28595
+battery_voltage,54607,26010,28597
+status,54609,0,54609

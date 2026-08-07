@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated reports
+reports/*.html
+reports/*.png
+
+# Large processed datasets
+data/processed/*.csv
+
+# Keep folders
+!data/processed/.gitkeep

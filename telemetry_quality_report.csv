@@ -1,0 +1,21 @@
+generator_id,packet_score,interval_score,sensor_score,quality_score,communication_health,issues
+Site_01-GEN1,96.65,96.54,100.0,97.28,Excellent,['healthy']
+Site_02-GEN1,91.66,90.9,100.0,93.02,Excellent,['healthy']
+Site_03-GEN1,90.94,90.03,100.0,92.39,Excellent,['healthy']
+Site_04-GEN1,95.56,95.35,100.0,96.36,Excellent,['healthy']
+Site_05-GEN1,96.85,96.74,100.0,97.44,Excellent,['healthy']
+Site_06-GEN1,76.61,69.46,100.0,78.43,Good,"['missing_packets', 'unstable_reporting']"
+Site_07-GEN1,93.04,92.52,100.0,94.22,Excellent,['healthy']
+Site_08-GEN1,99.43,99.42,100.0,99.54,Excellent,['healthy']
+Site_09-GEN1,96.54,96.42,100.0,97.18,Excellent,['healthy']
+Site_10-GEN1,97.11,97.02,100.0,97.65,Excellent,['healthy']
+Site_11-GEN1,97.25,97.17,100.0,97.77,Excellent,['healthy']
+Site_12-GEN1,97.05,96.96,100.0,97.6,Excellent,['healthy']
+Site_13-GEN1,97.24,97.16,100.0,97.76,Excellent,['healthy']
+Site_14-GEN1,97.06,96.97,100.0,97.61,Excellent,['healthy']
+Site_15-GEN1,99.91,99.91,0.0,79.93,Good,['sensor_missing_values']
+Site_16-GEN1,100.0,98.13,1.87,79.63,Good,['sensor_missing_values']
+Site_17-GEN1,100.0,78.48,12.42,73.88,Warning,"['unstable_reporting', 'sensor_missing_values']"
+Site_18-GEN1,100.0,82.06,10.25,74.87,Warning,['sensor_missing_values']
+Site_19-GEN1,100.0,92.15,4.9,77.84,Good,['sensor_missing_values']
+Site_20-GEN1,100.0,82.85,11.43,75.43,Good,['sensor_missing_values']
